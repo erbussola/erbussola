@@ -2,7 +2,7 @@
 - 👀 I’m interested in IoT
 - 🌱 I’m currently learning everything that excites me
 - 💞️ I’m looking to collaborate on Right now with anyone, but never say never
-- 📫 How to reach me da definire
+- 📫 How to reach me to be defained
 
 <!---
 erbussola/erbussola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
